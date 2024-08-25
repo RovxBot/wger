@@ -1,1 +1,4 @@
-
+services:
+  nginx:
+    ports:
+      - "8086:80"
